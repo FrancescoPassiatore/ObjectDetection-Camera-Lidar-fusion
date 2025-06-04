@@ -27,4 +27,6 @@ Before running the four steps, it's necessary running the Dataset definition and
   - Train YOLOv8n for 50 epochs
 - Second Inference:
   - Inference through trained YOLOv8 -> Obtain results
-  
+
+The first three steps (YOLO vs Ground Truth, Lidar Fusion, Enhance YOLOv8 with training) can be run individually and independent from the others.
+The
