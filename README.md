@@ -1,2 +1,7 @@
 # ObjectDetection-Camera-Lidar-fusion
-Object Detection on truck dataset , comparison between camera (YOLO-v8) and lidar (BEVFusion), and fusion between the two through weighted box.
+Object Detection on truck dataset.
+Four steps:
+- Inference made on YOLOv8
+- Projection of LiDAR points on YOLO predictions
+- YOLOv8 training
+- Inference made on enhanched YOLOv8
