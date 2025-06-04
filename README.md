@@ -9,6 +9,7 @@ Four steps:
 
 # How to use
 On the Google Collab notebook all four steps are integrated.
+Before running the four steps, it's necessary running the Dataset definition and the Imports
 - Dataset Definition
   MAN TruckScenes download
   Install needed packages (ultralytics for YOLO and truckscenes devkit)
