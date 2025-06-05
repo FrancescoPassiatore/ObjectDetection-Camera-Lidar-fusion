@@ -6,6 +6,8 @@ Four steps:
 - YOLOv8 training
 - Inference made on enhanched YOLOv8
 
+"Use of trained models" lets you use the trained models uploaded on the GitHub repository, you must download the MAN-truckscenes before-hand. 
+
 # How to use
 On the Google Collab notebook all four steps are integrated.
 Before running any of the main parts, it's necessary running the Dataset definition and the Imports
@@ -38,4 +40,3 @@ Before running any of the main parts, it's necessary running the Dataset definit
   - Use models for inference
  
 All main parts can be run individually as the code as been repeated in such a way that makes them independent from the rest.
-To avoid training YOLO, you can run the "Use of trained models", whihc will get the trained models from the github repository.
