@@ -39,4 +39,4 @@ Before running any of the main parts, it's necessary running the Dataset definit
   - Clone git repository to upload trained models
   - Use models for inference
  
-All main parts can be run individually as the code as been repeated in such a way that makes them independent from the rest.
+All main parts can be run individually, except for the second and third inference as it needs the trained models (these can be taken from the GitHub repository as explained in the Colab) ,as the code as been repeated in such a way that makes them independent from the rest.
