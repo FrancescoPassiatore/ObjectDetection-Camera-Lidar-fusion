@@ -1,5 +1,15 @@
 # Object Detection with Camera-LiDAR Fusion on MAN TruckScenes Dataset
 
+<p align="center">
+  <img src="images/CAMERA_LEFT_BACK_2_MAN_labels.jpg" alt="YOLOv8 Detection with MAN Labels" width="45%" />
+  <img src="images/CAMERA_LEFT_BACK_2_merged_labels.jpg" alt="YOLOv8 Detection with Merged Labels" width="45%" />
+</p>
+
+<p align="center">
+  <em> Detection with TruckScenes Labels &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; Detection with Merged Labels</em>
+</p>
+
+
 This project performs object detection on the **MAN TruckScenes** dataset using a combination of camera and LiDAR data. It consists of four main stages:
 
 1. **Initial Inference using YOLOv8**
