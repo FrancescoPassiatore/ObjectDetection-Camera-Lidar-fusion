@@ -57,7 +57,7 @@ Before running any of the core steps, make sure to:
 ### Third Inference - Trained on Merged Labels
 - Inference using the YOLOv8 model trained with merged label sources.
 
-> 📝 **Note**: These steps require the trained models. You can either train them yourself or **download the pre-trained models** from the GitHub repository (see below).
+>  **Note**: These steps require the trained models. You can either train them yourself or **download the pre-trained models** from the GitHub repository (see below).
 
 ---
 
