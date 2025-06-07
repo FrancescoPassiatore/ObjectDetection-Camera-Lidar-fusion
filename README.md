@@ -4,8 +4,8 @@ This project performs object detection on the **MAN TruckScenes** dataset using 
 
 1. **Initial Inference using YOLOv8**
 2. **LiDAR Point Cloud Projection on YOLOv8 Predictions**
-3. **YOLOv8 Training with Enhanced Labels**
-4. **Inference with Enhanced YOLOv8 Models**
+3. **YOLOv8 Training with TruckScenes labels and with merged labels**
+4. **Inference with Trained Models**
 
 ---
 
